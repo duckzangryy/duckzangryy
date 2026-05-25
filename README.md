@@ -46,9 +46,7 @@ I'm a passionate developer from Vietnam focused on creating practical, income-ge
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=duckzangryy&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duckzangryy&layout=compact&theme=radical)
-
+![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/duckzangryy?cardType=level-alternate&theme=dracula&fontFamily=&preferLogin=false)
 ---
 
 ## 🚧 Projects
@@ -122,9 +120,9 @@ I'm always open to:
 
 ### **Contact Information**
 - **GitHub**: [@duckzangryy](https://github.com/duckzangryy)
-- **Email**: [Your email here]
-- **Discord**: [Your Discord handle]
-- **Telegram**: [Your Telegram handle]
+- **Email**: [duckhayangry@gmail.com]
+- **Discord**: [_awsc]
+- **Instagram**: [@_awsci]
 
 ---
 
@@ -137,7 +135,7 @@ I'm always open to:
 ## 🎯 Goals for 2026
 
 1. **Launch 3+ profitable microservices**
-2. **Build a sustainable income stream** (100-200k VND/day)
+2. **Build a sustainable income stream**
 3. **Grow GitHub presence** with quality projects
 4. **Connect with 50+ developers** in the microservices space
 5. **Learn and implement** advanced system design patterns
