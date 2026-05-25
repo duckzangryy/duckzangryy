@@ -122,7 +122,7 @@ I'm always open to:
 - **GitHub**: [@duckzangryy](https://github.com/duckzangryy)
 - **Email**: [duckhayangry@gmail.com]
 - **Discord**: [_awsc]
-- **Instagram**: [@_awsci]
+- **Instagram**: [@_awsci](https://www.instagram.com/_awsci/)
 
 ---
 
