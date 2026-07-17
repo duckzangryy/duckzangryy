@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="duckzangryy cyber pond banner" />
+<!-- banner: external (always loads). Local assets/banner.svg needs public push. -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0d9488,70:0891b2,100:67e8f9&height=220&section=header&text=duckzangryy&fontSize=52&fontColor=f8fafc&fontAlignY=38&desc=cyber%20pond%20%C2%B7%20angry-cute%20duck%20energy&descAlignY=58&descSize=16&animation=twinkling&fontAlign=50" width="100%" alt="duckzangryy cyber pond banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=42&duration=4000&pause=400&color=67E8F9&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1100&height=120&lines=Hello+hello;I'm+duckzangryy%2C+an+angry-cute+duck+who+ships+code+%F0%9F%A6%86" width="80%" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=42&duration=4000&pause=400&color=67E8F9&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1100&height=120&lines=Hello+hello;I'm+duckzangryy%2C+an+angry-cute+duck+who+ships+code+%F0%9F%A6%86" width="80%" alt="typing intro"/>
 
 <br><br>
 
