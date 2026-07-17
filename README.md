@@ -42,7 +42,9 @@ motto:   "if it quacks, ship it."
 | 🎯 | **north star** software that feels *alive* |
 | 💬 | **ask me** side projects · debug holes · duck lore |
 
-### `system.readout`
+---
+
+## `system.readout`
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=duckzangryy&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=020617&title_color=67e8f9&icon_color=fbbf24&text_color=cbd5e1&ring_color=0d9488" alt="stats"/>
