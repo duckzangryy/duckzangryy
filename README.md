@@ -1,170 +1,224 @@
 <!--
   GitHub Profile README — duckzangryy
-  Repo must be named: duckzangryy/duckzangryy (public)
+  Repo name MUST be: duckzangryy/duckzangryy (public)
 -->
 
 <div align="center">
 
-  <img src="./assets/banner.svg" alt="duckzangryy — cyber duck developer banner" width="100%" />
+<img src="./assets/banner.svg" alt="duckzangryy cyber pond banner" width="100%" />
 
-  <br/>
+<br/>
 
-  <a href="https://github.com/duckzangryy">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=80&lines=hey%2C+i'm+duckzangryy+%F0%9F%A6%86;building+things+that+quack+in+prod;code+hard.+debug+harder.+ship+anyway." alt="typing intro" />
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=67E8F9&center=true&vCenter=true&width=720&height=48&lines=%24+whoami+%E2%86%92+duckzangryy;building+software+with+angry-cute+energy;%7B+craft+%C2%B7+automate+%C2%B7+ship+%C2%B7+repeat+%7D" alt="typing intro" />
 
-  <p>
-    <img src="https://img.shields.io/badge/status-shipping-0f766e?style=for-the-badge&labelColor=0b1026&logo=github&logoColor=22d3ee" alt="status" />
-    <img src="https://img.shields.io/badge/timezone-GMT%2B7-0891b2?style=for-the-badge&labelColor=0b1026" alt="timezone" />
-    <img src="https://img.shields.io/badge/vibe-angry%20cute%20duck-f59e0b?style=for-the-badge&labelColor=0b1026" alt="vibe" />
-    <img src="https://komarev.com/ghpvc/?username=duckzangryy&style=for-the-badge&color=22d3ee&label=PROFILE+VIEWS" alt="profile views" />
-  </p>
+<br/>
+
+<a href="https://github.com/duckzangryy?tab=repositories">
+  <img src="https://img.shields.io/badge/STATUS-SHIPPING-0d9488?style=for-the-badge&labelColor=020617&logo=rocket&logoColor=67e8f9" alt="status"/>
+</a>
+<img src="https://img.shields.io/badge/TZ-GMT%2B7-0284c7?style=for-the-badge&labelColor=020617&logo=clockify&logoColor=7dd3fc" alt="timezone"/>
+<img src="https://img.shields.io/badge/VIBE-ANGRY%20CUTE%20DUCK-d97706?style=for-the-badge&labelColor=020617&logo=duckduckgo&logoColor=fbbf24" alt="vibe"/>
+<img src="https://komarev.com/ghpvc/?username=duckzangryy&style=for-the-badge&color=22d3ee&label=VISITORS&labelColor=020617" alt="visitors"/>
 
 </div>
 
----
+<br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Duck.png" alt="Duck" width="28" height="28" /> about the duck
+<div align="center">
+  <img src="./assets/divider.svg" width="70%" alt=""/>
+</div>
 
-> *not your average rubber duck on the desk — this one writes the code, then yells at the bugs.*
+<br/>
 
-```text
-┌─────────────────────────────────────────────────────────┐
-│  NAME     duckzangryy                                   │
-│  ROLE     full-stack tinkerer · automation nerd         │
-│  MODE     night owl 🦉 · coffee → commits → chaos       │
-│  MOTTO    "if it quacks, ship it. if it breaks, fix it."│
-└─────────────────────────────────────────────────────────┘
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Duck.png" alt="" width="32" height="32"/> identity.card
+
+<table>
+<tr>
+<td width="52%" valign="top">
+
+### the duck behind the commits
+
+> not a rubber duck on the desk.  
+> this one **writes the code**, then **yells at the bugs**.
+
+```yaml
+handle:     duckzangryy
+role:       full-stack tinkerer
+mode:       night-owl · deep-work
+fuel:       cà phê sữa đá · lofi
+motto:      "if it quacks, ship it."
 ```
 
-- 🐣 **currently** building small products, tools & experiments that actually ship  
-- 🧠 **obsessed with** clean DX, sharp UI, and automations that remove busywork  
-- 🛠️ **stack energy** TypeScript · Python · web · cloud-ish glue  
-- 🎯 **goal** write software that feels alive — not another grey SaaS clone  
-- 💬 **ask me about** side projects, debugging rabbit holes, duck memes  
+| | |
+|:--|:--|
+| 🐣 | **building** products & tools that actually ship |
+| 🧠 | **obsessed** with DX, sharp UI, zero busywork |
+| ⚡ | **stack** TS · Python · web · cloud glue |
+| 🎯 | **north star** software that feels *alive* |
+| 💬 | **ask me** side projects · debug holes · duck lore |
 
----
+</td>
+<td width="48%" valign="top" align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="28" height="28" /> tech pond
+### system.readout
+
+<img src="https://github-readme-stats.vercel.app/api?username=duckzangryy&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=020617&title_color=67e8f9&icon_color=fbbf24&text_color=cbd5e1&ring_color=0d9488&hide_title=false" height="180" alt="stats"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=duckzangryy&hide_border=true&background=020617&ring=0d9488&fire=fbbf24&currStreakLabel=67e8f9&sideLabels=94a3b8&dates=64748b&currStreakNum=e2e8f0&sideNums=e2e8f0&stroke=1e293b" height="160" alt="streak"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <img src="./assets/divider.svg" width="70%" alt=""/>
+</div>
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="" width="32" height="32"/> arsenal.loadout
 
 <div align="center">
 
-### languages
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-</p>
+**languages**
 
-### frameworks & tools
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000" alt="Linux" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
+<img src="https://skillicons.dev/icons?i=ts,js,python,html,css,nodejs&theme=dark" alt="languages"/>
+
+**frameworks · platforms**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,supabase,docker,linux,git,github,vscode,figma&theme=dark" alt="tools"/>
+
+<br/><br/>
+
+| layer | tools |
+|:------|:------|
+| **frontend** | React · Next.js · Tailwind · motion-first UI |
+| **backend** | Node · Python · REST/JSON · Supabase |
+| **ops** | Docker · Linux · Git · CI glue scripts |
+| **craft** | DX polish · automation · clean architecture |
 
 </div>
 
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="28" height="28" /> flight telemetry
+<br/>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=duckzangryy&show_icons=true&theme=radical&hide_border=true&bg_color=0b1026&title_color=22d3ee&icon_color=fbbf24&text_color=e2e8f0&ring_color=0f766e" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duckzangryy&layout=compact&theme=radical&hide_border=true&bg_color=0b1026&title_color=22d3ee&text_color=e2e8f0" alt="Top languages" />
+  <img src="./assets/divider.svg" width="70%" alt=""/>
 </div>
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="" width="32" height="32"/> telemetry.feed
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duckzangryy&theme=radical&hide_border=true&background=0b1026&ring=0f766e&fire=fbbf24&currStreakLabel=22d3ee" alt="GitHub streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duckzangryy&layout=compact&langs_count=8&hide_border=true&bg_color=020617&title_color=67e8f9&text_color=cbd5e1" height="180" alt="top langs"/>
+&nbsp;
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=duckzangryy&bg_color=020617&color=67e8f9&line=0d9488&point=fbbf24&area=true&area_color=0d9488&hide_border=true&custom_title=commit%20orbit" height="180" alt="activity graph"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=duckzangryy&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
+
 </div>
 
----
+<br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="28" height="28" /> currently hatching
+<div align="center">
+  <img src="./assets/divider.svg" width="70%" alt=""/>
+</div>
 
-| project | status | what |
-|:--------|:------:|:-----|
-| **secret sauce** | 🟡 brewing | something small, sharp, and slightly unhinged |
-| **tooling experiments** | 🟢 live | automations that save future-me from past-me |
-| **open source** | 👀 watching | learning in public, PRs when it clicks |
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="" width="32" height="32"/> hatchery.status
+
+| project | signal | brief |
+|:--------|:------:|:------|
+| **✦ secret sauce** | `BREWING` | small · sharp · slightly unhinged |
+| **⚡ tooling lab** | `LIVE` | automations that save future-me |
+| **👁 open source** | `SCOUTING` | learn in public · PR when it clicks |
 
 <details>
-<summary><b>🧩 how i work</b></summary>
+<summary><b>▸ pipeline · how commits are born</b></summary>
+
+<br/>
 
 ```text
- idea  →  sketch  →  ship thin slice  →  break it  →  fix it  →  polish
-   ↑                                                         │
-   └──────────────────── feedback loop ──────────────────────┘
+  ┌──────┐   ┌────────┐   ┌───────┐   ┌──────┐   ┌────────┐
+  │ idea │ → │ sketch │ → │ slice │ → │ break│ → │ polish │
+  └──┬───┘   └────────┘   └───────┘   └──────┘   └────▲───┘
+     │              feedback loop                     │
+     └───────────────────←────────────────────────────┘
 ```
 
-- prefer **boring tech that works** over hype that burns out  
-- ship early, iterate loud, document just enough  
-- rubber-duck debug… except the duck talks back  
+- **boring tech that works** > hype that burns out  
+- ship thin · iterate loud · document just enough  
+- rubber-duck debug — except the duck talks back  
 
 </details>
 
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" alt="Connect" width="28" height="28" /> find the flock
+<br/>
 
 <div align="center">
-
-  <a href="https://github.com/duckzangryy">
-    <img src="https://img.shields.io/badge/GitHub-duckzangryy-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <!-- update these when you have real links -->
-  <!--
-  <a href="https://twitter.com/YOUR_HANDLE">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="mailto:you@example.com">
-    <img src="https://img.shields.io/badge/Email-0f766e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  -->
-
+  <img src="./assets/divider.svg" width="70%" alt=""/>
 </div>
 
----
+<br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Fun" width="28" height="28" /> random facts
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="" width="32" height="32"/> runtime.config
 
-```js
-const duckzangryy = {
-  pronouns: "ask me",
-  fuel: ["cà phê sữa đá", "lofi", "green terminal themes"],
-  currentlyLearning: ["better system design", "shipping faster"],
-  debuggingStyle: "stare → quack → breakthrough",
-  funFact: "named after a slightly angry duck energy 🦆",
-};
+```ts
+export const duckzangryy = {
+  codename: "angry-cute-duck",
+  timezone: "Asia/Ho_Chi_Minh",
+  stack: ["TypeScript", "Python", "Next.js", "Supabase"],
+  fuel: ["cà phê sữa đá", "lofi", "green terminals"],
+  learning: ["system design", "shipping velocity"],
+  debugProtocol: ["stare", "quack", "breakthrough"],
+  openTo: ["collabs", "weird ideas", "good PRs"],
+} as const;
 ```
 
----
+<br/>
+
+<div align="center">
+  <img src="./assets/divider.svg" width="70%" alt=""/>
+</div>
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" alt="" width="32" height="32"/> signal.links
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1026,50:0f766e,100:22d3ee&height=120&section=footer&text=thanks%20for%20stopping%20by%20·%20go%20build%20something&fontSize=16&fontColor=e2e8f0&animation=twinkling" alt="footer wave" />
+<a href="https://github.com/duckzangryy">
+  <img src="https://img.shields.io/badge/GitHub-duckzangryy-020617?style=for-the-badge&logo=github&logoColor=67e8f9&labelColor=0f172a" alt="GitHub"/>
+</a>
+<!--
+<a href="https://x.com/YOUR_HANDLE">
+  <img src="https://img.shields.io/badge/X_/_Twitter-020617?style=for-the-badge&logo=x&logoColor=e2e8f0&labelColor=0f172a" alt="X"/>
+</a>
+<a href="mailto:you@example.com">
+  <img src="https://img.shields.io/badge/Email-0d9488?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a" alt="Email"/>
+</a>
+-->
 
-  <sub>
-    made with ☕ + 🦆 · last commit might be at 3am · that's a feature
-  </sub>
+<br/><br/>
 
-  <br/><br/>
+<sub>
+  <code>made with ☕ + 🦆 · commits may appear at 03:00 · that's a feature</code>
+</sub>
 
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake" width="100%" />
+<br/><br/>
 
-  <!--
-    Optional: enable GitHub Actions snake animation
-    → https://github.com/Platane/snk
-    After setup, replace the image URL above with:
-    https://raw.githubusercontent.com/duckzangryy/duckzangryy/output/github-contribution-grid-snake-dark.svg
-  -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0d9488,100:67e8f9&height=140&section=footer&text=thanks%20for%20diving%20in%20·%20now%20go%20build&fontSize=15&fontColor=e2e8f0&fontAlignY=65&animation=twinkling&desc=duckzangryy%20%C2%B7%20cyber%20pond%20protocol&descAlignY=80&descSize=11" alt="footer"/>
+
+<!--
+  Snake animation (optional):
+  1. Add workflow from https://github.com/Platane/snk
+  2. Swap URL below to your repo output branch
+-->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contrib snake" width="100%"/>
 
 </div>
