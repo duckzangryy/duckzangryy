@@ -72,8 +72,8 @@ Based in **Buôn Ma Thuột, Việt Nam** (GMT+7). Building web UIs, small APIs,
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=duckzangryy&show_icons=true&theme=radical&hide_border=true&bg_color=020617&title_color=67e8f9&icon_color=22d3ee&text_color=e2e8f0&ring_color=0d9488" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duckzangryy&layout=compact&theme=radical&hide_border=true&bg_color=020617&title_color=67e8f9&text_color=e2e8f0" alt="Top languages"/>
+<img height="165" src="https://github-readme-stats-one-bice.vercel.app/api?username=duckzangryy&show_icons=true&theme=radical&hide_border=true&bg_color=020617&title_color=67e8f9&icon_color=22d3ee&text_color=e2e8f0&ring_color=0d9488" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=duckzangryy&layout=compact&theme=radical&hide_border=true&bg_color=020617&title_color=67e8f9&text_color=e2e8f0&langs_count=8" alt="Top languages"/>
 
 <br/>
 
@@ -90,7 +90,7 @@ Based in **Buôn Ma Thuột, Việt Nam** (GMT+7). Building web UIs, small APIs,
 ## `> trophies`
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=duckzangryy&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
+  <img src="https://github-profile-trophy-psi.vercel.app/?username=duckzangryy&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
 </div>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
