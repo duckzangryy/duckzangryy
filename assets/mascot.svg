@@ -53,7 +53,7 @@
     <g>
       <animateTransform attributeName="transform" type="translate" values="0 0; 0 -6; 0 0" dur="3s" repeatCount="indefinite"/>
       <rect x="12" y="100" width="56" height="36" rx="8" fill="#0f172a" stroke="#67e8f9" stroke-width="2.5"/>
-      <text x="24" y="125" font-size="20" fill="#67e8f9">{}</text>
+      <text x="24" y="125" font-size="20" fill="#67e8f9"> {}</text>
     </g>
     <g>
       <animateTransform attributeName="transform" type="translate" values="0 0; 0 -5; 0 0" dur="2.6s" begin="0.4s" repeatCount="indefinite"/>
