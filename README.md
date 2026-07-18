@@ -1,35 +1,116 @@
 <div align="center">
 
-<!-- banner: external (always loads). Local assets/banner.svg needs public push. -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0d9488,70:0891b2,100:67e8f9&height=220&section=header&text=duckzangryy&fontSize=52&fontColor=f8fafc&fontAlignY=38&desc=cyber%20pond%20%C2%B7%20angry-cute%20duck%20energy&descAlignY=58&descSize=16&animation=twinkling&fontAlign=50" width="100%" alt="duckzangryy cyber pond banner"/>
+<img src="./assets/banner.svg" width="100%" alt="duckzangryy cyber pond banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=42&duration=4000&pause=400&color=67E8F9&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1100&height=120&lines=Hello+hello;I'm+duckzangryy%2C+an+angry-cute+duck+who+ships+code+%F0%9F%A6%86" width="80%" alt="typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=22&duration=3200&pause=500&color=67E8F9&center=true&vCenter=true&multiline=true&width=900&height=90&lines=Hello+hello+%E2%80%94+I'm+duckzangryy;angry-cute+duck+who+ships+code+%F0%9F%A6%86" alt="typing intro"/>
 
-<br><br>
-
-<pre>
-    💼 full-stack tinkerer · night-owl · deep-work
-    💻 TypeScript · Python · Next.js · automation
-    📖 DX · sharp UI · ship thin slices
-    ☕ cà phê sữa đá · lofi · green terminals
-    🦆 if it quacks, ship it. if it breaks, fix it.
-</pre>
-
-<br>
+<br/>
 
 <img src="https://img.shields.io/badge/status-shipping-0d9488?style=flat-square&labelColor=020617" alt="status"/>
 <img src="https://img.shields.io/badge/timezone-GMT%2B7-0284c7?style=flat-square&labelColor=020617" alt="timezone"/>
-<img src="https://img.shields.io/badge/vibe-angry%20cute%20duck-d97706?style=flat-square&labelColor=020617" alt="vibe"/>
+<img src="https://img.shields.io/badge/base-Bu%C3%B4n+Ma+Thu%E1%BB%99t%2C+VN-d97706?style=flat-square&labelColor=020617" alt="location"/>
+<img src="https://img.shields.io/badge/vibe-angry%20cute%20duck-f59e0b?style=flat-square&labelColor=020617" alt="vibe"/>
 <img src="https://komarev.com/ghpvc/?username=duckzangryy&style=flat-square&color=22d3ee&label=visitors&labelColor=020617" alt="visitors"/>
 
-<br><br>
+<br/><br/>
 
-<a href="https://github.com/duckzangryy">
-  <img src="https://img.shields.io/badge/GitHub-duckzangryy-020617?style=flat-square&logo=github&logoColor=67e8f9&labelColor=0f172a" alt="GitHub"/>
-</a>
+<a href="https://github.com/duckzangryy"><img src="https://img.shields.io/badge/GitHub-duckzangryy-020617?style=for-the-badge&logo=github&logoColor=67e8f9&labelColor=0f172a" alt="GitHub"/></a>
+&nbsp;
+<a href="https://hori.is-a.dev"><img src="https://img.shields.io/badge/web-hori.is--a.dev-0d9488?style=for-the-badge&logo=vercel&logoColor=67e8f9&labelColor=0f172a" alt="website"/></a>
 
-<br><br>
+</div>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## `> whoami`
+
+```txt
+full-stack tinkerer · night-owl · deep-work mode
+TypeScript · Python · Next.js · automation
+DX · sharp UI · ship thin slices
+cà phê sữa đá · lofi · green terminals
+
+if it quacks → ship it
+if it breaks → fix it
+```
+
+Based in **Buôn Ma Thuột, Việt Nam** (GMT+7). Building web UIs, small APIs, and tools that remove friction.
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## `> stack`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## `> currently hatching`
+
+| project | stack | live |
+|:--------|:------|:-----|
+| [**ProfileWeb**](https://github.com/duckzangryy/ProfileWeb) | TypeScript | [hori.is-a.dev](https://hori.is-a.dev) |
+| [**Anisoul**](https://github.com/duckzangryy/Anisoul) | TypeScript | [anisoul.vercel.app](https://anisoul.vercel.app) |
+| [**ProxyAPI**](https://github.com/duckzangryy/ProxyAPI) | JavaScript | [vercel](https://proxy-api-gold-seven.vercel.app) |
+| [**web-ui-screenshot**](https://github.com/duckzangryy/web-ui-screenshot) | Python | capture UI at scale |
+| [**duckzangryy.github.io**](https://duckzangryy.github.io) | HTML | [pages](https://duckzangryy.github.io) |
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## `> telemetry`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=duckzangryy&show_icons=true&theme=radical&hide_border=true&bg_color=020617&title_color=67e8f9&icon_color=22d3ee&text_color=e2e8f0&ring_color=0d9488" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duckzangryy&layout=compact&theme=radical&hide_border=true&bg_color=020617&title_color=67e8f9&text_color=e2e8f0" alt="Top languages"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=duckzangryy&theme=radical&hide_border=true&background=020617&ring=0d9488&fire=fbbf24&currStreakLabel=67e8f9&sideLabels=94a3b8&sideNums=e2e8f0&dates=64748b" alt="streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=duckzangryy&bg_color=020617&color=67e8f9&line=22d3ee&point=fbbf24&area=true&hide_border=true" width="100%" alt="activity graph"/>
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## `> trophies`
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=duckzangryy&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## `> system.readout`
+
+```diff
++ focus ........ 98%
++ caffeine ..... max
++ bugs ......... 0*  (*as far as you know)
++ timezone ..... GMT+7
++ mode ......... ship
+```
+
+<div align="center">
 
 <sub>made with ☕ + 🦆 · commits may appear at 03:00 · that's a feature</sub>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0d9488,100:67e8f9&height=100&section=footer" width="100%" alt=""/>
 
 </div>
