@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="148" height="48" viewBox="0 0 148 48" role="img" aria-label="X Twitter">
+  <rect x="4" y="6" width="142" height="40" rx="5" fill="#000000" opacity="0.5"/>
+  <rect x="2" y="2" width="142" height="40" rx="5" fill="#0f172a" stroke="#475569" stroke-width="1.5"/>
+  <rect x="2" y="2" width="142" height="16" rx="5" fill="#1e293b"/>
+  <rect x="2" y="14" width="142" height="28" fill="#0f172a"/>
+  <rect x="2" y="38" width="142" height="4" rx="5" fill="#0f172a"/>
+  <rect x="56" y="0" width="36" height="8" rx="1" fill="#164e63" transform="rotate(1.5 74 4)"/>
+  <circle cx="24" cy="22" r="11" fill="#020617" stroke="#67e8f9" stroke-width="1.2"/>
+  <path d="M18.6 16h2.4l3.2 4.3 3.7-4.3h2.3l-4.9 5.6 5.1 5.8h-2.4l-3.4-4.5-3.9 4.5h-2.3l5-5.7-4.8-5.7z" fill="#e2e8f0"/>
+  <text x="44" y="27" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" font-weight="600" fill="#e2e8f0">X / Twitter</text>
+</svg>

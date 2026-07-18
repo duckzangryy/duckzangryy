@@ -60,13 +60,13 @@
 <br>
 
 <p>
-  <a href="https://www.facebook.com/vanhzxje.2018"><img src="./assets/social-fb.svg" height="42" alt="Facebook"/></a>
+  <a href="https://www.facebook.com/vanhzxje.2018"><img src="https://raw.githubusercontent.com/duckzangryy/duckzangryy/refs/heads/main/assets/social-fb-v2.svg" height="42" alt="Facebook"/></a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/_awsci/"><img src="./assets/social-ig.svg" height="42" alt="Instagram"/></a>
+  <a href="https://www.instagram.com/_awsci/"><img src="https://raw.githubusercontent.com/duckzangryy/duckzangryy/refs/heads/main/assets/social-ig-v2.svg" height="42" alt="Instagram"/></a>
   &nbsp;&nbsp;
-  <a href="https://soundcloud.com/bfmaterial-maybe"><img src="./assets/social-sc.svg" height="42" alt="SoundCloud"/></a>
+  <a href="https://soundcloud.com/bfmaterial-maybe"><img src="https://raw.githubusercontent.com/duckzangryy/duckzangryy/refs/heads/main/assets/social-sc-v2.svg" height="42" alt="SoundCloud"/></a>
   &nbsp;&nbsp;
-  <a href="https://x.com/awscii"><img src="./assets/social-x.svg" height="42" alt="X"/></a>
+  <a href="https://x.com/awscii"><img src="https://raw.githubusercontent.com/duckzangryy/duckzangryy/refs/heads/main/assets/social-x-v2.svg" height="42" alt="X"/></a>
 </p>
 
 <sub>made with ☕ + 🦆 · commits may appear at 03:00 · that's a feature</sub>
