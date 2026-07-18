@@ -1,16 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="36" viewBox="0 0 800 36">
-  <!-- static rainbow segments (always visible on GitHub) -->
-  <rect x="40" y="13" width="144" height="10" fill="#22d3ee"/>
-  <rect x="184" y="13" width="144" height="10" fill="#818cf8"/>
-  <rect x="328" y="13" width="144" height="10" fill="#e879f9"/>
-  <rect x="472" y="13" width="144" height="10" fill="#fbbf24"/>
-  <rect x="616" y="13" width="144" height="10" fill="#34d399"/>
-  <!-- rounded look via end caps -->
-  <rect x="40" y="13" width="720" height="10" rx="5" fill="none" stroke="#0f172a" stroke-width="0"/>
-  <circle cx="40" cy="18" r="5" fill="#22d3ee"/>
-  <circle cx="760" cy="18" r="5" fill="#34d399"/>
-  <!-- sweeping highlight (extra; solid bars remain if anim blocked) -->
-  <rect x="40" y="13" width="80" height="10" rx="4" fill="#ffffff" opacity="0.35">
-    <animate attributeName="x" values="40;680;40" dur="2.8s" repeatCount="indefinite"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="12" viewBox="0 0 600 12">
+  <rect x="20" y="4" width="112" height="4" fill="#22d3ee"/>
+  <rect x="132" y="4" width="112" height="4" fill="#818cf8"/>
+  <rect x="244" y="4" width="112" height="4" fill="#e879f9"/>
+  <rect x="356" y="4" width="112" height="4" fill="#fbbf24"/>
+  <rect x="468" y="4" width="112" height="4" fill="#34d399"/>
+  <circle cx="20" cy="6" r="2" fill="#22d3ee"/>
+  <circle cx="580" cy="6" r="2" fill="#34d399"/>
+  <rect x="20" y="4" width="48" height="4" rx="2" fill="#ffffff" opacity="0.4">
+    <animate attributeName="x" values="20;532;20" dur="2.8s" repeatCount="indefinite"/>
   </rect>
 </svg>
