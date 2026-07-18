@@ -4,20 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=22&duration=3200&pause=500&color=67E8F9&center=true&vCenter=true&multiline=true&width=900&height=90&lines=Hello+hello+%E2%80%94+I'm+duckzangryy;angry-cute+duck+who+ships+code+%F0%9F%A6%86" alt="typing intro"/>
 
-<br/>
-
-<img src="https://img.shields.io/badge/status-shipping-0d9488?style=flat-square&labelColor=020617" alt="status"/>
-<img src="https://img.shields.io/badge/timezone-GMT%2B7-0284c7?style=flat-square&labelColor=020617" alt="timezone"/>
-<img src="https://img.shields.io/badge/base-Bu%C3%B4n+Ma+Thu%E1%BB%99t%2C+VN-d97706?style=flat-square&labelColor=020617" alt="location"/>
-<img src="https://img.shields.io/badge/vibe-angry%20cute%20duck-f59e0b?style=flat-square&labelColor=020617" alt="vibe"/>
-<img src="https://komarev.com/ghpvc/?username=duckzangryy&style=flat-square&color=22d3ee&label=visitors&labelColor=020617" alt="visitors"/>
-
-<br/><br/>
-
-<a href="https://github.com/duckzangryy"><img src="https://img.shields.io/badge/GitHub-duckzangryy-020617?style=for-the-badge&logo=github&logoColor=67e8f9&labelColor=0f172a" alt="GitHub"/></a>
-&nbsp;
-<a href="https://hori.is-a.dev"><img src="https://img.shields.io/badge/web-hori.is--a.dev-0d9488?style=for-the-badge&logo=vercel&logoColor=67e8f9&labelColor=0f172a" alt="website"/></a>
-
 </div>
 
 <br/>
@@ -36,23 +22,7 @@ if it quacks → ship it
 if it breaks → fix it
 ```
 
-Based in **Buôn Ma Thuột, Việt Nam** (GMT+7). Building web UIs, small APIs, and tools that remove friction.
-
-<img src="./assets/divider.svg" width="100%" alt=""/>
-
-## `> stack`
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
+Building web UIs, small APIs, and tools that remove friction.
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
@@ -101,7 +71,6 @@ Based in **Buôn Ma Thuột, Việt Nam** (GMT+7). Building web UIs, small APIs,
 + focus ........ 98%
 + caffeine ..... max
 + bugs ......... 0*  (*as far as you know)
-+ timezone ..... GMT+7
 + mode ......... ship
 ```
 
