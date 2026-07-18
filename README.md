@@ -14,7 +14,7 @@
 🦆 if it quacks, ship it · if it breaks, fix it
 </pre>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="./assets/divider.svg?v=2" width="100%" alt=""/>
 
 <pre align="left">
 ▸ currently shipping
