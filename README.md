@@ -36,7 +36,7 @@
 </td>
 <td width="22%" valign="middle" align="center">
 
-<img src="./assets/mascot.svg" width="140" alt="angry-cute duck"/>
+<img src="./assets/mascot.svg" width="160" alt="angry-cute duck"/>
 
 </td>
 </tr>
