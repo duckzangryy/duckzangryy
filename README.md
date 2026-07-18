@@ -2,7 +2,7 @@
 
 <table width="100%">
 <tr>
-<td width="76%" valign="top" align="center">
+<td width="76%" valign="middle" align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=26&duration=4000&pause=300&color=67E8F9&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=640&height=100&lines=Hello+hello;duckzangryy+%C2%B7+angry-cute+duck+who+ships+code" alt="typing intro"/>
 
@@ -17,17 +17,21 @@
 </td>
 <td width="24%" valign="middle" align="center">
 
-<img src="./assets/mascot.svg?v=3" width="200" alt="angry-cute duck"/>
+<img src="./assets/mascot.svg?v=3" width="180" alt="angry-cute duck"/>
 
 </td>
 </tr>
-</table>
 
-<img src="https://raw.githubusercontent.com/duckzangryy/duckzangryy/refs/heads/main/assets/divider.svg" width="100%" alt=""/>
-
-<table width="100%">
 <tr>
-<td width="76%" valign="top" align="center">
+<td colspan="2" align="center">
+<br>
+<img src="https://raw.githubusercontent.com/duckzangryy/duckzangryy/refs/heads/main/assets/divider.svg" width="100%" alt=""/>
+<br>
+</td>
+</tr>
+
+<tr>
+<td width="76%" valign="middle" align="center">
 
 <pre align="left">
 ▸ currently shipping
