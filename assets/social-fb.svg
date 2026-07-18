@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="40" viewBox="0 0 140 40" role="img" aria-label="Facebook">
+  <rect width="140" height="40" rx="10" fill="#0f172a" stroke="#334155" stroke-width="1.5"/>
+  <circle cx="22" cy="20" r="11" fill="#1877F2"/>
+  <path d="M24.2 20.8h-1.6v6.2h-2.6v-6.2h-1.2v-2.2h1.2v-1.3c0-1.7.8-2.7 2.7-2.7h1.7v2.2h-1c-.8 0-1 .4-1 1v.8h2.1l-.3 2.2z" fill="#fff"/>
+  <text x="42" y="25" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" font-weight="600" fill="#e2e8f0">Facebook</text>
+</svg>

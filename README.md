@@ -59,11 +59,18 @@
 
 <br>
 
+<img src="https://raw.githubusercontent.com/duckzangryy/duckzangryy/refs/heads/main/assets/divider.svg" width="40%" height="3" alt=""/>
+
+<br>
+
 <p>
-  <a href="https://www.facebook.com/vanhzxje.2018"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="https://www.instagram.com/_awsci/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://soundcloud.com/bfmaterial-maybe"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud"/></a>
-  <a href="https://x.com/awscii"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://www.facebook.com/vanhzxje.2018"><img src="./assets/social-fb.svg" height="36" alt="Facebook"/></a>
+  &nbsp;
+  <a href="https://www.instagram.com/_awsci/"><img src="./assets/social-ig.svg" height="36" alt="Instagram"/></a>
+  &nbsp;
+  <a href="https://soundcloud.com/bfmaterial-maybe"><img src="./assets/social-sc.svg" height="36" alt="SoundCloud"/></a>
+  &nbsp;
+  <a href="https://x.com/awscii"><img src="./assets/social-x.svg" height="36" alt="X"/></a>
 </p>
 
 <sub>made with ☕ + 🦆 · commits may appear at 03:00 · that's a feature</sub>

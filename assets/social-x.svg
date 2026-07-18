@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="130" height="40" viewBox="0 0 130 40" role="img" aria-label="X">
+  <rect width="130" height="40" rx="10" fill="#0f172a" stroke="#334155" stroke-width="1.5"/>
+  <circle cx="22" cy="20" r="11" fill="#1e293b" stroke="#67e8f9" stroke-width="1.2"/>
+  <path d="M17.2 14.5h2.3l3.1 4.2 3.6-4.2h2.2l-4.7 5.5 4.9 5.7h-2.3l-3.3-4.4-3.8 4.4h-2.2l4.9-5.6-4.7-5.6z" fill="#e2e8f0"/>
+  <text x="42" y="25" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" font-weight="600" fill="#e2e8f0">X / Twitter</text>
+</svg>

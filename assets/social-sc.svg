@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="40" viewBox="0 0 160 40" role="img" aria-label="SoundCloud">
+  <rect width="160" height="40" rx="10" fill="#0f172a" stroke="#334155" stroke-width="1.5"/>
+  <circle cx="22" cy="20" r="11" fill="#FF5500"/>
+  <!-- cloud + bars simplified -->
+  <path d="M16 23c0-2.2 1.6-4 3.7-4 .5-1.7 2-3 3.9-3 2.2 0 4 1.8 4 4h.2c1.4 0 2.5 1.1 2.5 2.5S29.2 25 27.8 25H16.8c-1.1 0-1.8-.8-1.8-1.8z" fill="#fff" opacity="0.95"/>
+  <rect x="17" y="21" width="1.4" height="4" rx="0.5" fill="#FF5500"/>
+  <rect x="19.2" y="19.5" width="1.4" height="5.5" rx="0.5" fill="#FF5500"/>
+  <rect x="21.4" y="18.5" width="1.4" height="6.5" rx="0.5" fill="#FF5500"/>
+  <rect x="23.6" y="19" width="1.4" height="6" rx="0.5" fill="#FF5500"/>
+  <text x="42" y="25" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" font-weight="600" fill="#e2e8f0">SoundCloud</text>
+</svg>
