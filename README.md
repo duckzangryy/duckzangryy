@@ -59,6 +59,13 @@
 
 <br>
 
+<p>
+  <a href="https://www.facebook.com/vanhzxje.2018"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://www.instagram.com/_awsci/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://soundcloud.com/bfmaterial-maybe"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud"/></a>
+  <a href="https://x.com/awscii"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+</p>
+
 <sub>made with ☕ + 🦆 · commits may appear at 03:00 · that's a feature</sub>
 
 </div>
