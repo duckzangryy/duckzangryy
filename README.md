@@ -59,10 +59,6 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/duckzangryy/duckzangryy/refs/heads/main/assets/divider.svg" width="40%" height="3" alt=""/>
-
-<br>
-
 <p>
   <a href="https://www.facebook.com/vanhzxje.2018"><img src="./assets/social-fb.svg" height="36" alt="Facebook"/></a>
   &nbsp;
