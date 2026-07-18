@@ -1,6 +1,8 @@
 <div align="center">
 
 <table width="100%">
+  <col width="76%"/>
+  <col width="24%"/>
 <tr>
 <td width="76%" valign="middle" align="center">
 
@@ -17,17 +19,15 @@
 </td>
 <td width="24%" valign="middle" align="center">
 
-<img src="./assets/mascot.svg?v=3" width="180" alt="angry-cute duck"/>
+<img src="./assets/mascot.svg?v=3" width="180" height="200" alt="angry-cute duck"/>
 
 </td>
 </tr>
-</table>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/duckzangryy/duckzangryy/refs/heads/main/assets/divider.svg" width="100%" height="4" alt=""/>
-</p>
-
-<table width="100%">
+<tr>
+<td colspan="2" align="center" width="100%">
+<img src="https://raw.githubusercontent.com/duckzangryy/duckzangryy/refs/heads/main/assets/divider.svg" width="100%" height="4" alt=""/>
+</td>
+</tr>
 <tr>
 <td width="76%" valign="middle" align="center">
 
@@ -51,7 +51,7 @@
 </td>
 <td width="24%" valign="middle" align="center">
 
-<img src="./assets/side-card.svg" width="180" alt="night ship terminal"/>
+<img src="./assets/side-card.svg" width="180" height="200" alt="night ship terminal"/>
 
 </td>
 </tr>
