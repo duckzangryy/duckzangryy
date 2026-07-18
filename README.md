@@ -25,32 +25,25 @@
 
 <img src="./assets/divider.svg" width="420" alt=""/>
 
-</div>
+<pre align="left">
+▸ currently shipping
+  tools that remove friction
+  DX until the happy path feels boring
+  thin slices · ship · observe · fix · repeat
 
-### currently shipping
+▸ stack
+  TypeScript · Python · Next.js · Node · shell · CSS
 
-- building tools that remove friction from the daily loop
-- polishing DX until the happy path feels boring (in a good way)
-- thin slices: ship, observe, fix, repeat
+▸ how I work
+  plan thin → build loud → ship quiet → fix loud again
+  night-owl · deep work · 03:00 commits are a feature
 
-### stack I reach for
+▸ vibes
+  cà phê sữa đá · lofi · green terminals · angry duck stares
+</pre>
 
-`TypeScript` · `Python` · `Next.js` · `Node` · shell · a little too much CSS
+<br>
 
-### how I work
-
-```
-plan thin → build loud → ship quiet → fix loud again
-```
-
-night-owl energy. deep work when the world is asleep. commits at 03:00 are not a bug.
-
-### vibes
-
-cà phê sữa đá, lofi, green-on-black terminals, and the occasional angry duck stare at a flaky test.
-
----
-
-<div align="center">
 <sub>made with ☕ + 🦆 · commits may appear at 03:00 · that's a feature</sub>
+
 </div>
