@@ -27,7 +27,7 @@
 
 <table width="100%">
 <tr>
-<td align="center">
+<td width="76%" valign="top" align="center">
 
 <pre align="left">
 ▸ currently shipping
@@ -45,6 +45,11 @@
 ▸ vibes
   cà phê sữa đá · lofi · green terminals · angry duck stares
 </pre>
+
+</td>
+<td width="24%" valign="middle" align="center">
+
+<img src="./assets/side-card.svg" width="180" alt="night ship terminal"/>
 
 </td>
 </tr>
