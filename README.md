@@ -21,15 +21,13 @@
 
 </td>
 </tr>
+</table>
 
-<tr>
-<td colspan="2" align="center">
-<br>
-<img src="https://raw.githubusercontent.com/duckzangryy/duckzangryy/refs/heads/main/assets/divider.svg" width="100%" alt=""/>
-<br>
-</td>
-</tr>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/duckzangryy/duckzangryy/refs/heads/main/assets/divider.svg" width="100%" height="4" alt=""/>
+</p>
 
+<table width="100%">
 <tr>
 <td width="76%" valign="middle" align="center">
 

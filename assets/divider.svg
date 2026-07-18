@@ -1,34 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="8" viewBox="0 0 1200 8" preserveAspectRatio="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="4" viewBox="0 0 1200 4" preserveAspectRatio="none">
   <defs>
-    <linearGradient id="flow" x1="0" y1="0" x2="400" y2="0" gradientUnits="userSpaceOnUse" spreadMethod="repeat">
+    <linearGradient id="flow" x1="0" y1="0" x2="360" y2="0" gradientUnits="userSpaceOnUse" spreadMethod="repeat">
       <stop offset="0%" stop-color="#22d3ee"/>
-      <stop offset="16%" stop-color="#38bdf8"/>
-      <stop offset="33%" stop-color="#a78bfa"/>
-      <stop offset="50%" stop-color="#e879f9"/>
-      <stop offset="66%" stop-color="#fbbf24"/>
-      <stop offset="83%" stop-color="#34d399"/>
+      <stop offset="20%" stop-color="#818cf8"/>
+      <stop offset="40%" stop-color="#e879f9"/>
+      <stop offset="60%" stop-color="#fbbf24"/>
+      <stop offset="80%" stop-color="#34d399"/>
       <stop offset="100%" stop-color="#22d3ee"/>
-      <animate attributeName="x1" values="0;400" dur="3s" repeatCount="indefinite"/>
-      <animate attributeName="x2" values="400;800" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="x1" values="0;360" dur="2.8s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="360;720" dur="2.8s" repeatCount="indefinite"/>
     </linearGradient>
-    <linearGradient id="edge" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#fff" stop-opacity="0"/>
-      <stop offset="6%" stop-color="#fff" stop-opacity="1"/>
-      <stop offset="94%" stop-color="#fff" stop-opacity="1"/>
-      <stop offset="100%" stop-color="#fff" stop-opacity="0"/>
-    </linearGradient>
-    <mask id="fade">
-      <rect width="1200" height="8" fill="url(#edge)"/>
-    </mask>
   </defs>
-  <!-- soft glow under line -->
-  <rect x="0" y="1" width="1200" height="6" rx="3" fill="url(#flow)" opacity="0.22" mask="url(#fade)"/>
-  <!-- main thin bar, edge-to-edge -->
-  <rect x="0" y="2.5" width="1200" height="3" rx="1.5" fill="url(#flow)" mask="url(#fade)"/>
-  <!-- fallback solid if mask fails on some clients -->
-  <rect x="0" y="2.5" width="1200" height="3" rx="1.5" fill="#22d3ee" opacity="0.08"/>
-  <!-- shine -->
-  <rect x="0" y="2.5" width="90" height="3" rx="1.5" fill="#ffffff" opacity="0.45">
-    <animate attributeName="x" values="-90;1200" dur="2.6s" repeatCount="indefinite"/>
+  <rect width="1200" height="4" fill="url(#flow)"/>
+  <rect x="0" y="0" width="70" height="4" fill="#ffffff" opacity="0.35">
+    <animate attributeName="x" values="-70;1200" dur="2.4s" repeatCount="indefinite"/>
   </rect>
 </svg>
