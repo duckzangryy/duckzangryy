@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td width="78%" valign="middle" align="center">
+<td width="78%" valign="top" align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=23&duration=4000&pause=300&color=67E8F9&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=560&height=90&lines=Hello+hello;duckzangryy+%C2%B7+angry-cute+duck+who+ships+code" alt="typing intro"/>
 
@@ -14,16 +14,7 @@
 🦆 if it quacks, ship it · if it breaks, fix it
 </pre>
 
-</td>
-<td width="22%" valign="middle" align="center">
-
-<img src="./assets/mascot.svg" width="140" alt="angry-cute duck"/>
-
-</td>
-</tr>
-</table>
-
-<img src="./assets/divider.svg" width="420" alt=""/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 <pre align="left">
 ▸ currently shipping
@@ -41,6 +32,15 @@
 ▸ vibes
   cà phê sữa đá · lofi · green terminals · angry duck stares
 </pre>
+
+</td>
+<td width="22%" valign="middle" align="center">
+
+<img src="./assets/mascot.svg" width="140" alt="angry-cute duck"/>
+
+</td>
+</tr>
+</table>
 
 <br>
 
