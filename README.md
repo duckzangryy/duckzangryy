@@ -10,7 +10,7 @@
 💼 full-stack tinkerer · night-owl · deep-work
 💻 TypeScript · Python · Next.js · automation
 📖 DX · sharp UI · ship thin slices
-☕ cà phê sữa đá · lofi · green terminals
+☕  cà phê sữa đá · lofi · green terminals
 🦆 if it quacks, ship it · if it breaks, fix it
 </pre>
 
