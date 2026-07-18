@@ -2,9 +2,9 @@
 
 <table>
 <tr>
-<td width="76%" valign="top" align="center">
+<td width="78%" valign="top" align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=20&duration=4000&pause=300&color=67E8F9&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=480&height=72&lines=Hello+hello;duckzangryy+%C2%B7+angry-cute+duck+who+ships+code" alt="typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=23&duration=4000&pause=300&color=67E8F9&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=560&height=90&lines=Hello+hello;duckzangryy+%C2%B7+angry-cute+duck+who+ships+code" alt="typing intro"/>
 
 <pre align="left">
 💼 full-stack tinkerer · night-owl · deep-work
@@ -14,7 +14,7 @@
 🦆 if it quacks, ship it · if it breaks, fix it
 </pre>
 
-<img src="https://raw.githubusercontent.com/duckzangryy/duckzangryy/refs/heads/main/assets/divider.svg" width="380" height="12" alt=""/>
+<img src="https://raw.githubusercontent.com/duckzangryy/duckzangryy/refs/heads/main/assets/divider.svg" width="520" height="14" alt=""/>
 
 <pre align="left">
 ▸ currently shipping
@@ -34,9 +34,9 @@
 </pre>
 
 </td>
-<td width="24%" valign="middle" align="center">
+<td width="22%" valign="middle" align="center">
 
-<img src="./assets/mascot.svg" width="140" alt="angry-cute duck"/>
+<img src="./assets/mascot.svg?v=3" width="180" alt="angry-cute duck"/>
 
 </td>
 </tr>
