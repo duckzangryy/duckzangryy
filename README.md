@@ -4,7 +4,7 @@
 <tr>
 <td width="78%" valign="middle" align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=26&duration=4000&pause=300&color=67E8F9&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=560&height=90&lines=Hello+hello;duckzangryy+%C2%B7+angry-cute+duck+who+ships+code" alt="typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=23&duration=4000&pause=300&color=67E8F9&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=560&height=90&lines=Hello+hello;duckzangryy+%C2%B7+angry-cute+duck+who+ships+code" alt="typing intro"/>
 
 <pre align="left">
 💼 full-stack tinkerer · night-owl · deep-work
