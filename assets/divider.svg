@@ -1,35 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="28" viewBox="0 0 900 28">
-  <defs>
-    <linearGradient id="bar" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#22d3ee">
-        <animate attributeName="stop-color"
-          values="#22d3ee;#a78bfa;#f472b6;#fbbf24;#34d399;#22d3ee"
-          dur="3s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="25%" stop-color="#a78bfa">
-        <animate attributeName="stop-color"
-          values="#a78bfa;#f472b6;#fbbf24;#34d399;#22d3ee;#a78bfa"
-          dur="3s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="50%" stop-color="#f472b6">
-        <animate attributeName="stop-color"
-          values="#f472b6;#fbbf24;#34d399;#22d3ee;#a78bfa;#f472b6"
-          dur="3s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="75%" stop-color="#fbbf24">
-        <animate attributeName="stop-color"
-          values="#fbbf24;#34d399;#22d3ee;#a78bfa;#f472b6;#fbbf24"
-          dur="3s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#34d399">
-        <animate attributeName="stop-color"
-          values="#34d399;#22d3ee;#a78bfa;#f472b6;#fbbf24;#34d399"
-          dur="3s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
-  </defs>
-  <!-- solid bright bar, always visible even if animate fails -->
-  <rect x="60" y="11" width="780" height="6" rx="3" fill="url(#bar)"/>
-  <rect x="20" y="12" width="50" height="4" rx="2" fill="#22d3ee" opacity="0.45"/>
-  <rect x="830" y="12" width="50" height="4" rx="2" fill="#34d399" opacity="0.45"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="36" viewBox="0 0 800 36">
+  <!-- static rainbow segments (always visible on GitHub) -->
+  <rect x="40" y="13" width="144" height="10" fill="#22d3ee"/>
+  <rect x="184" y="13" width="144" height="10" fill="#818cf8"/>
+  <rect x="328" y="13" width="144" height="10" fill="#e879f9"/>
+  <rect x="472" y="13" width="144" height="10" fill="#fbbf24"/>
+  <rect x="616" y="13" width="144" height="10" fill="#34d399"/>
+  <!-- rounded look via end caps -->
+  <rect x="40" y="13" width="720" height="10" rx="5" fill="none" stroke="#0f172a" stroke-width="0"/>
+  <circle cx="40" cy="18" r="5" fill="#22d3ee"/>
+  <circle cx="760" cy="18" r="5" fill="#34d399"/>
+  <!-- sweeping highlight (extra; solid bars remain if anim blocked) -->
+  <rect x="40" y="13" width="80" height="10" rx="4" fill="#ffffff" opacity="0.35">
+    <animate attributeName="x" values="40;680;40" dur="2.8s" repeatCount="indefinite"/>
+  </rect>
 </svg>
