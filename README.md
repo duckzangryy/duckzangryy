@@ -16,7 +16,7 @@
 
 <br>
 
-<img src="./assets/divider.svg" width="55%" alt=""/>
+<img src="./assets/divider.svg" width="45%" alt=""/>
 
 <br><br>
 
