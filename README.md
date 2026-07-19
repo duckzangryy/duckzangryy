@@ -59,7 +59,7 @@
 
 <br>
 
-<p>
+<!-- <p>
   <a href="https://www.facebook.com/vanhzxje.2018"><img src="https://raw.githubusercontent.com/duckzangryy/duckzangryy/refs/heads/main/assets/social-fb-v2.svg" height="42" alt="Facebook"/></a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/_awsci/"><img src="https://raw.githubusercontent.com/duckzangryy/duckzangryy/refs/heads/main/assets/social-ig-v2.svg" height="42" alt="Instagram"/></a>
@@ -67,7 +67,7 @@
   <a href="https://soundcloud.com/bfmaterial-maybe"><img src="https://raw.githubusercontent.com/duckzangryy/duckzangryy/refs/heads/main/assets/social-sc-v2.svg" height="42" alt="SoundCloud"/></a>
   &nbsp;&nbsp;
   <a href="https://x.com/awscii"><img src="https://raw.githubusercontent.com/duckzangryy/duckzangryy/refs/heads/main/assets/social-x-v2.svg" height="42" alt="X"/></a>
-</p>
+</p> -->
 
 <sub>made with ☕ + 🦆 · commits may appear at 03:00 · that's a feature</sub>
 
